@@ -1,0 +1,17 @@
+{
+  "budgetEstimate": {
+    "active": true,
+    "estimate": 0,
+    "includeExpenses": true,
+    "includesBillableExpenses": true,
+    "resetOption": "MONTHLY",
+    "type": "AUTO"
+  },
+  "timeEstimate": {
+    "active": true,
+    "estimate": "PT1H30M",
+    "includeNonBillable": true,
+    "resetOption": "MONTHLY",
+    "type": "AUTO"
+  }
+}
